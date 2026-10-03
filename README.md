@@ -2,6 +2,8 @@
 
 Guía pública didáctica para Jonathan, Aitor y Miguel. HTML, CSS y JavaScript sin dependencias de producción, formularios externos ni datos operativos de clientes.
 
+Enlace: https://jmcabeo-ai.github.io/primera-ronda-aitor-miguel/
+
 Fuente: hoja de ruta ARZ/Urus v3, 01/10/2026. Web: 03/10/2026. Nueve partidas, tres tramos de 500 EUR. Los simuladores son educativos: no modifican presupuestos, anuncios ni cuentas.
 
 Incluye ocho pasos, calendario orientativo, presupuesto y capacidad interactivos, simulación de cortes C33, margen por pedido, herramientas, responsabilidades, preguntas de comprensión, glosario, 58 referencias del curso, 32 fuentes oficiales y los dos PDFs vigentes.
